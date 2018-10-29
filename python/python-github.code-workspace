@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "yacht"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/Library/Frameworks/Python.framework/Versions/2.7/bin/python"
+	}
+}

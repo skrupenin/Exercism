@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/2.7/bin/python",
+    "python.unitTest.pyTestArgs": [
+        "."
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": true
+}

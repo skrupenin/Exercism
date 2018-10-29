@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/2.7/bin/python",
+    "python.jediEnabled": false,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*_test.py"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestEnabled": true
+}
